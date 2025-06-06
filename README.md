@@ -3,19 +3,20 @@
 
 ---
 
-## 🚀 Accede al notebook en Google Colab
-
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/)
-
----
-
 ## 📊 Descripción del Proyecto
 
 Zoop es una gran minorista que atiende a todas las regiones de México a través de su e-commerce.
 
-El desafío es como analista de datos del equipo de datos de Zoop, tienes el desafío de extraer los datos de ambas bases y construir visualizaciones que puedan agregar valor a la presentación de los resultados de Zoop en 2023. Para ello, se te presentarán 7 preguntas para que puedas contribuir en la construcción del storytelling de las ventas de la empresa.
+Como analista de datos del equipo de datos de Zoop, tienes el desafío de extraer los datos de ambas bases y construir visualizaciones que puedan agregar valor a la presentación de los resultados de Zoop en 2023. Para ello, se te presentarán 7 preguntas para que puedas contribuir en la construcción del storytelling de las ventas de la empresa.
 
 Para agilizar el proceso de análisis exploratorio de datos (AED) y la creación de visuales, utilizaremos la IA de ChatGPT como nuestra asistente, teniendo en cuenta el corto plazo para los análisis y la calidad de la entrega.
+
+---
+## 🚀 Accede al notebook en Google Colab 
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/evs-11/IA_aplicada_a-_la_ciencia_de_datos/blob/main/IA_aplicada_a_ciencia_de_datos.ipynb)
+
+---
 
 ## 📚 Documentación útil para estudio y consulta
 
@@ -139,8 +140,10 @@ A continuación, algunos ejemplos de visualizaciones generadas:
 
 3.Facturación por categoría 2023
 
+---
+
 👥 Autores y contacto
-Nombre del autor principal: Elida Schultz (con datos proporcionados para el programa Alura Latam)
+Autora: Elida Schultz (con datos proporcionados para el programa Alura Latam 2025)
 
 Email: elida.schultz7@gmail.com
 
