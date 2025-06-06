@@ -14,7 +14,7 @@ Para agilizar el proceso de análisis exploratorio de datos (AED) y la creación
 ---
 ## 🚀 Accede al notebook en Google Colab 
 
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/https://github.com/evs-11/IA_aplicada_a-_la_ciencia_de_datos/blob/main/IA_aplicada_a_ciencia_de_datos.ipynb)
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/evs-11/IA_aplicada_a-_la_ciencia_de_datos/blob/main/IA_aplicada.ipynb)
 
 ---
 
